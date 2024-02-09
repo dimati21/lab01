@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab01</string>
+    <string name="Button_sum">+</string>
+    <string name="Button_sub">-</string>
+    <string name="Button_mult">*</string>
+    <string name="Button_div">/</string>
+    <string name="var_a">a:</string>
+    <string name="var_b">b:</string>
+    <string name="text_res">Result:</string>
+    <string name="Button_sins">sin(a)</string>
+    <string name="Button_coss">cos(a)</string>
+    <string name="Button_tgs">tg(a)</string>
+    <string name="Button_ctgs">ctg(a)</string>
+</resources>
